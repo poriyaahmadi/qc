@@ -1,0 +1,11 @@
+{
+  "qc_provider": "gemini",
+  "openai_api_key": "PASTE_YOUR_OPENAI_KEY_HERE",
+  "openai_model": "gpt-5-mini",
+  "gemini_api_key": "AIzaSyDM5RNkR61MGltujOcxymD2VwbNJKyGv-c",
+  "gemini_model": "gemini-2.5-flash",
+  "groq_api_key": "",
+  "anthropic_api_key": "",
+  "anthropic_model": "claude-haiku-4-5-20251001",
+  "frame_interval_seconds": 3
+}
